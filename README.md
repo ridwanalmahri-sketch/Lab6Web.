@@ -366,13 +366,11 @@ Gunakan kode CSS asli mini project yang telah disiapkan agar desain tetap konsis
 
 - <img width="1919" height="1027" alt="Screenshot 2026-10-26 163427" src="https://github.com/user-attachments/assets/18c60bfd-406c-4a38-b0b9-5f69236c8ee2" />
 
-
 - <img width="1919" height="1034" alt="Screenshot 2026-10-26 163519" src="https://github.com/user-attachments/assets/9ee3c81e-03c7-4a0e-94ef-5ca46f22ea85" />
-
 
 - <img width="1919" height="1045" alt="Screenshot 2026-10-26 164150" src="https://github.com/user-attachments/assets/d578f952-da94-41f0-ac4b-b05d53c11005" />
 
-<img width="1919" height="1038" alt="Screenshot 2026-10-26 164348" src="https://github.com/user-attachments/assets/9ab40a5c-c2db-4519-8995-108fef3e8522" />
+- <img width="1919" height="1038" alt="Screenshot 2026-10-26 164348" src="https://github.com/user-attachments/assets/9ab40a5c-c2db-4519-8995-108fef3e8522" />
 
 ---
 
@@ -540,8 +538,10 @@ Tugas yang dipilih berhasil dihapus, sedangkan tugas lain tetap ada.
 
 **Screenshot:**
 
-- `screenshot/08-todo-sebelum-hapus.png`
-- `screenshot/09-todo-sesudah-hapus.png`
+- <img width="1919" height="1039" alt="Screenshot 2026-10-26 164625" src="https://github.com/user-attachments/assets/ec1055c2-3ac6-458e-be64-b04705254252" />
+
+- <img width="1918" height="1036" alt="Screenshot 2026-10-26 164646" src="https://github.com/user-attachments/assets/29f9babe-c043-4747-b621-5c66023fcc50" />
+
 
 ---
 
