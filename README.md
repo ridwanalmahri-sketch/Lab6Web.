@@ -2,6 +2,13 @@
 
 Dokumentasi pengerjaan praktikum Pemrograman Web yang terdiri dari Latihan, Mini Project, dan Eksperimen Mandiri menggunakan HTML, CSS, dan JavaScript.
 
+- Nama: M.Ridwan Al Mahri
+- NIM: 312510157
+- Program Studi: Teknik Informatika
+- Mata Kuliah: Pemrograman Web
+- Repository: `Lab6Web`
+
+
 ## Daftar Isi
 
 1. [Persiapan Praktikum](#1-persiapan-praktikum)
@@ -67,7 +74,8 @@ Simpan screenshot struktur folder VS Code dengan nama:
 
 `screenshot/01-struktur-folder.png`
 
-![Contoh tampilan struktur folder di VS Code](https://placehold.co/900x350?text=Ganti+dengan+Screenshot+Struktur+Folder+VS+Code)
+<img width="242" height="417" alt="Screenshot 2026-10-26 154934" src="https://github.com/user-attachments/assets/5fe25047-2ccd-41ff-ade7-097783d64ce9" />
+
 
 *Ganti gambar contoh di atas dengan screenshot asli dari VS Code sebelum mengumpulkan tugas.*
 
