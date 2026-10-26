@@ -109,7 +109,10 @@ Masukkan kode asli dari modul pada bagian ini atau dokumentasikan di file latiha
 
 **Screenshot hasil program:**
 
-`screenshot/03-latihan-hasil.png`
+<img width="1919" height="445" alt="Screenshot 2026-10-26 161247" src="https://github.com/user-attachments/assets/f7237c89-9f64-4be2-9d58-c42695a14c4c" />
+<img width="1919" height="446" alt="Screenshot 2026-10-26 161309" src="https://github.com/user-attachments/assets/fe19fec6-b1f5-480a-bc9e-b069cbc0d388" />
+<img width="1919" height="572" alt="Screenshot 2026-10-26 161327" src="https://github.com/user-attachments/assets/97d55dc6-7a5b-4dbf-8d03-01cb67c34b70" />
+
 
 ---
 
