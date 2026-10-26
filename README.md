@@ -1,5 +1,11 @@
 # Lab6Web — Praktikum Pemrograman Web
 
+- Nama: M.Ridwan Al Mahri
+- NIM: 312510157
+- Program Studi: Teknik Informatika
+- Mata Kuliah: Pemrograman Web
+- Repository: `Lab6Web`
+- 
 ## Dokumentasi Praktikum JavaScript
 
 Repository ini berisi pengerjaan praktikum Pemrograman Web yang berfokus pada penggunaan JavaScript untuk membuat halaman web yang interaktif, mengelola elemen HTML, menangani event, dan melakukan validasi formulir.
