@@ -72,12 +72,7 @@ Lab6Web/
 
 Simpan screenshot struktur folder VS Code dengan nama:
 
-`screenshot/01-struktur-folder.png`
-
 <img width="242" height="417" alt="Screenshot 2026-10-26 154934" src="https://github.com/user-attachments/assets/5fe25047-2ccd-41ff-ade7-097783d64ce9" />
-
-
-*Ganti gambar contoh di atas dengan screenshot asli dari VS Code sebelum mengumpulkan tugas.*
 
 ---
 
