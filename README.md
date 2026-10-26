@@ -364,7 +364,7 @@ Gunakan kode CSS asli mini project yang telah disiapkan agar desain tetap konsis
 
 **Screenshot mini project:**
 
-- <img width="1919" height="1027" alt="Screenshot 2026-10-26 163427" src="https://github.com/user-attachments/assets/18c60bfd-406c-4a38-b0b9-5f69236c8ee2" />
+<img width="1919" height="1027" alt="Screenshot 2026-10-26 163427" src="https://github.com/user-attachments/assets/18c60bfd-406c-4a38-b0b9-5f69236c8ee2" />
 
 <img width="1919" height="1034" alt="Screenshot 2026-10-26 163519" src="https://github.com/user-attachments/assets/9ee3c81e-03c7-4a0e-94ef-5ca46f22ea85" />
 
