@@ -364,10 +364,16 @@ Gunakan kode CSS asli mini project yang telah disiapkan agar desain tetap konsis
 
 **Screenshot mini project:**
 
-- `screenshot/04-mini-project-form.png` — tampilan formulir.
-- `screenshot/05-mini-project-validasi.png` — pesan validasi.
-- `screenshot/06-mini-project-berhasil.png` — ringkasan pendaftaran.
-- `screenshot/07-mini-project-reset.png` — tampilan setelah reset.
+- <img width="1919" height="1027" alt="Screenshot 2026-10-26 163427" src="https://github.com/user-attachments/assets/18c60bfd-406c-4a38-b0b9-5f69236c8ee2" />
+— tampilan formulir.
+
+- <img width="1919" height="1034" alt="Screenshot 2026-10-26 163519" src="https://github.com/user-attachments/assets/9ee3c81e-03c7-4a0e-94ef-5ca46f22ea85" />
+  — pesan validasi.
+
+- <img width="1919" height="1045" alt="Screenshot 2026-10-26 164150" src="https://github.com/user-attachments/assets/d578f952-da94-41f0-ac4b-b05d53c11005" />
+— ringkasan pendaftaran.
+- <img width="1919" height="1027" alt="Screenshot 2026-10-26 163427" src="https://github.com/user-attachments/assets/9bf7df19-6879-49ac-ad22-716118be218a" />
+ — tampilan setelah reset.
 
 ---
 
